@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "my-app",
+			"path": ".."
+		},
+		{
+			"name": "data",
+			"path": "../../../../Downloads/data"
+		}
+	],
+	"settings": {}
+}
